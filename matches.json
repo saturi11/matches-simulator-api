@@ -1,0 +1,19 @@
+[
+  {
+    "descricao": "Eliminnatorias copa 2022",
+    "local":{
+      "nome": "Neo Química Arena",
+      "imagem":"TODO"
+    },
+    "mandante":{
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem":"TODO"
+    }
+    "visitante":{
+      "nome": "Colombia",
+      "forca": 3,
+      "imagem":"TODO"
+    }
+  }
+]
